@@ -13,8 +13,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
 #### Application functionality:
-  - Search user end repos by name
-  - User end repos profile overview
+  - Search user and repos by name
+  - User and repos profile overview
   - Link on gitHub source page
 
   
